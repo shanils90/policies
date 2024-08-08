@@ -65,6 +65,7 @@ Employees Attendance and Leave Policy
 - Continuation of employment following incidence of LWP will be the discretion of the management. Serious cognizance would be taken where employees habitually take LWP.
 - No advance EL/CL would be permitted to avoid LWP.
 - Loss Of Pay due to LWP is calculated as 
+
  ```(MonthlySalaryForEachPayHead/TotalDaysInThatMonth)*(NumberOfLWPs). So a person with Basic Salary 4000, HRA 1000, Conveyance Pay 1600, Other Allowance 10000, takes 2 LWP during a month of 31 days will lose Basic Salary of 4000/31*2, HRA of 1000/31*2, Conveyance Pay 1600/31*2, Other Allowance of 10000/31*2.```
 
 ### Disciplinary Action

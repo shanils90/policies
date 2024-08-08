@@ -4,8 +4,8 @@ Employees Attendance and Leave Policy
 
 ## Key Facts
 
-- **Casual Leaves:** 12
-- **Sick Leaves:** 8
+- **Casual Leaves(CL):** 12
+- **Sick Leaves(SL):** 8
 
 4.1.1 Generally ABC company observes a six-day week, and the next day of week as OFF.
 

@@ -1,4 +1,4 @@
-## Attendance and Leave Policy
+# Attendance and Leave Policy
 
 Employees Attendance and Leave Policy
 

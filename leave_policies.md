@@ -1,6 +1,6 @@
-# Attendance and Leave Policy
+# Attendance and Leave Policy of Cloudlet Technologies
 
-Employees Attendance and Leave Policy
+Employees Attendance and Leave Policy of Cloudlet Technologies
 
 ### Casual and Sick Leaves
 
@@ -9,7 +9,7 @@ Employees Attendance and Leave Policy
 
 ### Attendance
 
-- Generally ABC company observes a six-day week, and the next day of week as OFF. ABC company working hours is 8 hours for all regular employees as well as for all rotating shift employees.
+- Generally Cloudlet Technologies observes a six-day week, and the next day of week as OFF. Cloudlet Technologies working hours is 8 hours for all regular employees as well as for all rotating shift employees.
 - Work shift timing of rotational shifts differs based on functional/business/client requirements.
 - Employees are expected to report to work regularly and on time. They must record their in-time and out-time on respective employee portal.
 - Employees are permitted to come to office any or on all working days either 15 minutes before or after the scheduled start time. However, employee must ensure minimum 8 hours of work per day.
